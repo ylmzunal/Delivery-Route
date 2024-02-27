@@ -1,7 +1,4 @@
 /* 
- *  Yılmaz Ünal
- *  2023719108
- *  18/12/2023
  *  This Java program finds the fastest delivery route of the Migros delivery vehicle. 
  *  I implemented the nearest neighbor algorithm to solve the problem. 
  *  The solution to the problem consists of 3 program files. 
